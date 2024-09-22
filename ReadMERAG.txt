@@ -1,7 +1,10 @@
 RAG (Retrieval-Augmented Generation) Pipeline Project
 =====================================================
 
-This project implements a RAG pipeline using Flask, Milvus (vector database), and Ollama (for language model generation).
+This project implements an RAG pipeline using Flask, Milvus (vector database), and Ollama (for language model generation).
+
+Just so you know, I have uploaded 2 main files to run. The data was too large even after compressing so unable to send it through zip file.
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset,2400 resumes can be taken from the data folder containing all departments' resumes.Save it in the milvus_data folder under the same directory as python files. Code should run smoothly and Postman can be used to query the directory.
 
 Setup and Installation
 ----------------------
